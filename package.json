@@ -1,6 +1,6 @@
 {
   "name": "vue-cuba-app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Vue wrapper for cuba.js",
   "main": "index.js",
   "scripts": {
