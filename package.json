@@ -1,0 +1,27 @@
+{
+  "name": "vue-cuba-app",
+  "version": "0.1.0",
+  "description": "Vue wrapper for cuba.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emericanec/vue-cuba-app.git"
+  },
+  "keywords": [
+    "vue",
+    "cuba",
+    "plugin"
+  ],
+  "author": "Emericanec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emericanec/vue-cuba-app/issues"
+  },
+  "homepage": "https://github.com/Emericanec/vue-cuba-app#readme",
+  "dependencies": {
+    "@cuba-platform/rest": "^0.3.0"
+  }
+}
