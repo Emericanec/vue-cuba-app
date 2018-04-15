@@ -3,7 +3,7 @@ Vue wrapper for cuba.js
 
 **Install:**
 ```$javascript
-npm install vue-cuba-app@0.1.0 --save
+npm install vue-cuba-app@0.1.1 --save
 ```
 
 **How to use:**
